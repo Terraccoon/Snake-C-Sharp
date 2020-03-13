@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfHighscore_obj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Highscore_obj>
+    <Name>Alex. </Name>
+    <Score>1860</Score>
+  </Highscore_obj>
+  <Highscore_obj>
+    <Name>Der Beste</Name>
+    <Score>1760</Score>
+  </Highscore_obj>
+  <Highscore_obj>
+    <Name>Christian Braun</Name>
+    <Score>1750</Score>
+  </Highscore_obj>
+  <Highscore_obj>
+    <Name>Länge19</Name>
+    <Score>1680</Score>
+  </Highscore_obj>
+  <Highscore_obj>
+    <Name>MJ</Name>
+    <Score>1610</Score>
+  </Highscore_obj>
+</ArrayOfHighscore_obj>
